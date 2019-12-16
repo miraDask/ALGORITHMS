@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GeneratingVectors", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GeneratingCombinations", "05.GeneratingCombinations\05.GeneratingCombinations.csproj", "{8321086F-EDCB-4A47-997A-359D7D304A6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EightQueensPuzzle", "06.EightQueensPuzzle\06.EightQueensPuzzle.csproj", "{D1E3F0C0-70CC-4C79-85EB-B2615890E458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8321086F-EDCB-4A47-997A-359D7D304A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8321086F-EDCB-4A47-997A-359D7D304A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8321086F-EDCB-4A47-997A-359D7D304A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
