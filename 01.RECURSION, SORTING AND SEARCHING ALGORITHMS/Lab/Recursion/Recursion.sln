@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GeneratingCombinations",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EightQueensPuzzle", "06.EightQueensPuzzle\06.EightQueensPuzzle.csproj", "{D1E3F0C0-70CC-4C79-85EB-B2615890E458}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PathsInLabyrinth", "07.PathsInLabyrinth\07.PathsInLabyrinth.csproj", "{89BED41F-DFEA-4E1A-A42C-DAE2E5AD2B09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E3F0C0-70CC-4C79-85EB-B2615890E458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BED41F-DFEA-4E1A-A42C-DAE2E5AD2B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BED41F-DFEA-4E1A-A42C-DAE2E5AD2B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BED41F-DFEA-4E1A-A42C-DAE2E5AD2B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BED41F-DFEA-4E1A-A42C-DAE2E5AD2B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
