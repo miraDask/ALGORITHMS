@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace _03.RecursiveDrawing
+﻿namespace _03.RecursiveDrawing
 {
+    using System;
+
     public class StartUp
     {
         public static void Main()

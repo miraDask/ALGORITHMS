@@ -1,8 +1,8 @@
-﻿using System;
-using System.Linq;
-
-namespace _01.RecursiveArraySum
+﻿namespace _01.RecursiveArraySum
 {
+    using System;
+    using System.Linq;
+
     public class StartUp
     {
         public static void Main()

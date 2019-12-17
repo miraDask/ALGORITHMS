@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace _04.GeneratingVectors
+﻿namespace _04.GeneratingVectors
 {
+    using System;
+
     public class StartUp
     {
         public static void Main()

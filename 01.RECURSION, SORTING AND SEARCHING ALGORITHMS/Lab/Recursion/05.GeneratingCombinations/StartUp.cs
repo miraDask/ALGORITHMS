@@ -1,8 +1,8 @@
-﻿using System;
-using System.Linq;
-
-namespace _05.GeneratingCombinations
+﻿namespace _05.GeneratingCombinations
 {
+    using System;
+    using System.Linq;
+
     public class StartUp
     {
         public static void Main()

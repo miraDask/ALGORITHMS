@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace _02.RecursiveFactorial
+﻿namespace _02.RecursiveFactorial
 {
+    using System;
+
     public class StartUp
     {
         public static void Main()
