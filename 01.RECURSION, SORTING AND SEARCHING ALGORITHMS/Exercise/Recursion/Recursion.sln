@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseArray", "01.Rever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NestedLoops", "02.NestedLoops\02.NestedLoops.csproj", "{DB68ED15-9269-4A7D-9563-9302BB46F03E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CombinationsWithRepetition", "03.CombinationsWithRepetition\03.CombinationsWithRepetition.csproj", "{5907D08E-ED73-4779-804C-905771458C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB68ED15-9269-4A7D-9563-9302BB46F03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB68ED15-9269-4A7D-9563-9302BB46F03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB68ED15-9269-4A7D-9563-9302BB46F03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5907D08E-ED73-4779-804C-905771458C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5907D08E-ED73-4779-804C-905771458C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5907D08E-ED73-4779-804C-905771458C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5907D08E-ED73-4779-804C-905771458C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
