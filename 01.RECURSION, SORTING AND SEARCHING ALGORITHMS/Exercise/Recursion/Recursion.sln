@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CombinationsWithRepetiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TowersOfHanoi", "04.TowersOfHanoi\04.TowersOfHanoi.csproj", "{A1F55EA9-FA02-45BE-BA53-3F9022327E25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CombinationsWithoutRepetition", "05.CombinationsWithoutRepetition\05.CombinationsWithoutRepetition.csproj", "{FEDBFEEC-BF46-4853-B5B5-9E7F10E1280E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A1F55EA9-FA02-45BE-BA53-3F9022327E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1F55EA9-FA02-45BE-BA53-3F9022327E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1F55EA9-FA02-45BE-BA53-3F9022327E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDBFEEC-BF46-4853-B5B5-9E7F10E1280E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDBFEEC-BF46-4853-B5B5-9E7F10E1280E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDBFEEC-BF46-4853-B5B5-9E7F10E1280E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDBFEEC-BF46-4853-B5B5-9E7F10E1280E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
