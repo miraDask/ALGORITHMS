@@ -1,4 +1,4 @@
-﻿namespace QuickSort
+﻿namespace _02.QuickSort
 {
     using System;
     using System.Linq;
