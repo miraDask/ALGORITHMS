@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Searching", "02.Searchin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.InversionCount", "03.InversionCount\03.InversionCount.csproj", "{472ECAB2-B48E-4689-98DC-659AE931A58D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Words", "04.Words\04.Words.csproj", "{5C58914F-4806-441C-B37C-C42076BD8881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Needles", "05.Needles\05.Needles.csproj", "{D217FE55-BC72-472B-9D2E-11F9DC1B4EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{472ECAB2-B48E-4689-98DC-659AE931A58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{472ECAB2-B48E-4689-98DC-659AE931A58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{472ECAB2-B48E-4689-98DC-659AE931A58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C58914F-4806-441C-B37C-C42076BD8881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C58914F-4806-441C-B37C-C42076BD8881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C58914F-4806-441C-B37C-C42076BD8881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C58914F-4806-441C-B37C-C42076BD8881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D217FE55-BC72-472B-9D2E-11F9DC1B4EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D217FE55-BC72-472B-9D2E-11F9DC1B4EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D217FE55-BC72-472B-9D2E-11F9DC1B4EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D217FE55-BC72-472B-9D2E-11F9DC1B4EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
