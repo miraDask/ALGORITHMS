@@ -42,9 +42,11 @@
             }
 
             var result = new List<int>();
+
             for (int i = 0; i < needles.Length; i++)
             {
                 bool isIn = false;
+
                 for (int j = 0; j < numbers.Count; j++)
                 {
                     if (numbers[j] >= needles[i])
@@ -72,6 +74,5 @@
 
             return result;
         }
-
     }
 }
